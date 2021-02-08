@@ -13,7 +13,7 @@ public class Caja {
     public int getPeso(){
         return peso;
     }
-  public
+  publicee
 
 
 }
